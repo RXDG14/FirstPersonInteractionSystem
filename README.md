@@ -1,4 +1,4 @@
-# FirstPersonInteractionSystem
+# First Person Interaction System
 
 An interaction system for first person games. It has a raycast that scans for Interactables. All interactables need to implement the IInteractable interface. Interactables are split between pickables (Gun and Cube) and Non-pickables (button and doors). 
 
